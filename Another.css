@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #e3f2fd;
+}
+.navbar-brand img {
+	width: 45px;
+}
+.breadcrumb {
+	list-style: none;
+	background-color: rgb(241, 238, 238);
+	padding: 6px 15px;
+}
+a {
+	color: #444;
+    text-decoration: none;
+
+}
+.mrs {
+	display: inline-block;
+	float: right;
+}
+.alert-heading {
+	display: inline-block;
+}
+.progress {
+	display: flex;
+	height: 1rem;
+	overflow: hidden;
+	font-size: .75rem;
+	background-color: none;
+	border-radius: .25rem;
+	margin: 10px;
+}
